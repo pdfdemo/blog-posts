@@ -4,5 +4,11 @@ This repository has a few articles from the TechPresident blog as Markdown files
 
 ## Your assignment
 
-* Your first assignment is to add a new article to this project.
-* Your second assignment is to fork this repository and edit one of the articles.
+* Your first assignment is to fork this repository and edit one of the articles.
+* Your second assignment is to add a new article to this project.
+* Your third assignment is to add that article to the list below.
+
+## Lists of Articles
+
+* [Citizen Cosponsor](citizen-cosponsor.md)
+* [Girl Scouts of Tech](girl-scouts-of-tech.md)
