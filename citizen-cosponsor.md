@@ -10,6 +10,8 @@ The new version includes all legislation introduced in the House by both Republi
 
 The initial version launched last year only featured a narrow selection of bills including several sponsored by Republicans, some bipartisan bills and one by a Democrat. That was a pilot, explained Connor Walsh, digital director in the Majority Leader's office.
 
+Sample edit. 
+
 The new platform built on that proof-of-concept is made possible through the bulk download of House bills in XML format that the Government Printing Office announced in January, Walsh said. The platform currently offers the chance to "co-sponsor" more than 2,500 bills.
 
 Like the earlier version, the new platform integrates with Facebook's Open Graph, generating a Newsfeed notification when a user co-sponsors a bill and giving the user a red notification when action is taken on the legislation, he explained.
