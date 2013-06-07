@@ -1,6 +1,6 @@
 # House Republicans' "Citizen Cosponsor" Lets Anyone Support Any Bill Before the House
 
-## BY MIRANDA NEUBAUER | Tuesday, June 4 2013
+## BY MIRANDA NEUBAUER | Tuesday, June 7 2013
 
 [link](http://techpresident.com/news/23963/house-majority-leader-opens-citizen-cosponsor-project-all-bills)
 
