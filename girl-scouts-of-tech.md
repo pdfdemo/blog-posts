@@ -1,6 +1,8 @@
 # Kimberly Bryant Wants Black Girls Code To Be 'Girl Scouts of Technology'
 ## BY SARAH LAI STIRLAND | Thursday, June 6 2013
 
+[link](http://techpresident.com/news/23974/kimberly-bryant-wants-black-girls-code-be-girl-scouts-technology)
+
 Computer-related jobs are being created at such a rapid clip in the United States that its workforce can't keep up, so one woman is using that opportunity to create change in a community that she says is suffering from a disparity in education and income.
 
 "Girls, especially women of color, are summarily bypassed as far as being accepted as creative, and capable change agents in the tech industry," said Kimberly Bryant, founders of Black Girls Code, a Bay Area organization that trains young women of color of the ages between seven and seventeen to code.
