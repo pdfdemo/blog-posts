@@ -8,7 +8,7 @@ House Majority Leader Eric Cantor (R-Va.) announced today a relaunch of the Citi
 
 The new version includes all legislation introduced in the House by both Republicans and Democrats and exists on its own domain.
 
-The initial version launched last year only featured a narrow selection of bills including several sponsored by Republicans, some bipartisan bills and one by a Democrat. That was a pilot, explained Connor Walsh, digital director in the Majority Leader's office.
+The initial version which launched last year only featured a narrow selection of bills including several sponsored by Republicans, some bipartisan bills and one by a Democrat. That was a pilot, explained Connor Walsh, digital director in the Majority Leader's office.
 
 The new platform built on that proof-of-concept is made possible through the bulk download of House bills in XML format that the Government Printing Office announced in January, Walsh said. The platform currently offers the chance to "co-sponsor" more than 2,500 bills.
 
