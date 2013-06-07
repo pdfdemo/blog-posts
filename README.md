@@ -9,7 +9,7 @@ This repository has a few articles from the TechPresident blog as Markdown files
 * Your third assignment is to add that article to the list below.
 * Your fourth assignment is to create your own repository and add it to the second list below.
 * Your fifth assignment is to edit and send a pull request to several of those.
-* Your last assignment is to try to merge that change.
+* Your last assignment is to try to merge changes that come into your personal project.
 
 ## List of Articles
 
