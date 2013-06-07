@@ -7,8 +7,16 @@ This repository has a few articles from the TechPresident blog as Markdown files
 * Your first assignment is to fork this repository and edit one of the articles.
 * Your second assignment is to add a new article to this project.
 * Your third assignment is to add that article to the list below.
+* Your fourth assignment is to create your own repository and add it to the second list below.
+* Your fifth assignment is to edit and send a pull request to several of those.
+* Your last assignment is to try to merge that change.
 
-## Lists of Articles
+## List of Articles
 
 * [Citizen Cosponsor](citizen-cosponsor.md)
 * [Girl Scouts of Tech](girl-scouts-of-tech.md)
+
+
+## List of Projects
+
+* [Chacon Recipes](https://github.com/schacon/recipes)
