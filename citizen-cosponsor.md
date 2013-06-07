@@ -1,4 +1,4 @@
-# House Republicans' "Citizen Cosponsor" Lets Anyone Support Any Bill Before the House
+# House Republicans' "Citizen Cosponsor" Lets Everyone Support Every Bill Before the House
 
 ## BY MIRANDA NEUBAUER | Tuesday, June 4 2013
 
